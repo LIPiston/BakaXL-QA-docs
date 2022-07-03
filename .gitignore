@@ -1,0 +1,10 @@
+.idea/*
+.vscode/*
+.vs/*
+docs/.vuepress/.temp/*
+docs/.vuepress/.cache/*
+dist
+/docs/.vuepress/dist
+node_modules
+/docs/.vuepress/.temp
+/docs/.vuepress/.cache
